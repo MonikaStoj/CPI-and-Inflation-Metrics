@@ -4,8 +4,6 @@ This project visualizes monthly trends in the **Consumer Price Index (CPI)** usi
 
 ## 🚀 Dashboard Preview
 
-![dashboard](![image](https://github.com/user-attachments/assets/5c971fbd-1719-4ca7-9728-a613897791f0))
-
 ▶️ View it live on [[**Tableau Public**](https://public.tableau.com/views/U_S_InflationTrendsDashboardConsumerPriceIndexCPIandInflationMetricsMoMYoY/U_S_InflationTrendsConsumerPriceIndexCPIandInflationMetricsMoMYoY)]
 
 ---
